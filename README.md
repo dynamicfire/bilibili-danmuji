@@ -6,6 +6,9 @@
 2. 从 腾讯云控制台 开通语音合成产品。
 3. 获取AppID, SecretID以及SecretKey
 
+## 截图
+![1](https://raw.githubusercontent.com/dynamicfire/bilibili-danmuji/master/screenshot.png)
+
 ## 相关配置
 在 danmu.py 中，第24行：
 ```python
@@ -35,6 +38,9 @@ roomid处填入想要的抓取弹幕直播间的roomid
 1. Pyhton 2.7 to 3.7
 2. Activate TTS products from Tencent Cloud Console.
 3. Get AppID, SecretID and SecretKey
+
+## Screenshot
+![1](https://raw.githubusercontent.com/dynamicfire/bilibili-danmuji/master/screenshot.png)
 
 ## Configuration
 Line 24, danmu.py:
