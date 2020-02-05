@@ -32,7 +32,7 @@ roomid处填入想要的抓取弹幕直播间的roomid
 
 ---
 # danmuji
-#### A simple python script that read danmu from bilibili live broadcast aloud
+#### A simple python script that reads danmu (bullet-screen comments) from bilibili live broadcast aloud
 
 ## Environment
 1. Pyhton 2.7 to 3.7
