@@ -60,4 +60,5 @@ class Danmu():
             }
 ```
 Fill in the 'roomid' with the desired room id
+
 In conf/tcloud_auth.ini, fill in the AppID, SecretID and SecretKey
