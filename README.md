@@ -35,7 +35,7 @@ roomid处填入想要的抓取弹幕直播间的roomid
 #### A simple python script that reads danmu (bullet-screen comments) from bilibili live broadcast aloud
 
 ## Environment
-1. Pyhton 2.7 to 3.7
+1. Python 2.7 to 3.7
 2. Activate TTS products from Tencent Cloud Console.
 3. Get AppID, SecretID and SecretKey
 
